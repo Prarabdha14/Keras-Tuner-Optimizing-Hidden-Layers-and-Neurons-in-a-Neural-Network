@@ -1,0 +1,2 @@
+# Keras-Tuner-Optimizing-Hidden-Layers-and-Neurons-in-a-Neural-Network
+This project demonstrates the use of Keras Tuner, a hyperparameter optimization library, to determine the optimal number of hidden layers and neurons for a neural network. By leveraging Keras Tuner, developers can automate the process of hyperparameter selection, improving the efficiency and performance of machine learning models.
